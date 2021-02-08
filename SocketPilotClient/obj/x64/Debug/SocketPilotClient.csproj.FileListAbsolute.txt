@@ -1,0 +1,10 @@
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilotGetReady\SocketPilotClient\bin\x64\Debug\SocketPilotClient.exe.config
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilotGetReady\SocketPilotClient\bin\x64\Debug\SocketPilotClient.exe
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilotGetReady\SocketPilotClient\bin\x64\Debug\SocketPilotClient.pdb
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilotGetReady\SocketPilotClient\obj\x64\Debug\SocketPilotClient.csproj.CoreCompileInputs.cache
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilotGetReady\SocketPilotClient\obj\x64\Debug\SocketPilotClient.exe
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilotGetReady\SocketPilotClient\obj\x64\Debug\SocketPilotClient.pdb
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilotGetReady\SocketPilotClient\bin\Debug\SocketPilotClient.exe.config
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilotGetReady\SocketPilotClient\bin\Debug\SocketPilotClient.exe
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilotGetReady\SocketPilotClient\bin\Debug\SocketPilotClient.pdb
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilotGetReady\SocketPilotClient\obj\x64\Debug\SocketPilotClient.csprojAssemblyReference.cache

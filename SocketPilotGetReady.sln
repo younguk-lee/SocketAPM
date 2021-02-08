@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketPilotServer", "SocketPilotGetReady\SocketPilotServer.csproj", "{9CC95DDE-BA49-4B95-B4DD-EE38BC8F1C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketPilotClient", "SocketPilotClient\SocketPilotClient.csproj", "{6A3DC459-725A-416A-987E-FD60296A5191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CC95DDE-BA49-4B95-B4DD-EE38BC8F1C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC95DDE-BA49-4B95-B4DD-EE38BC8F1C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC95DDE-BA49-4B95-B4DD-EE38BC8F1C71}.Debug|x64.ActiveCfg = Debug|x64
+		{9CC95DDE-BA49-4B95-B4DD-EE38BC8F1C71}.Debug|x64.Build.0 = Debug|x64
+		{9CC95DDE-BA49-4B95-B4DD-EE38BC8F1C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC95DDE-BA49-4B95-B4DD-EE38BC8F1C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC95DDE-BA49-4B95-B4DD-EE38BC8F1C71}.Release|x64.ActiveCfg = Release|x64
+		{9CC95DDE-BA49-4B95-B4DD-EE38BC8F1C71}.Release|x64.Build.0 = Release|x64
+		{6A3DC459-725A-416A-987E-FD60296A5191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3DC459-725A-416A-987E-FD60296A5191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3DC459-725A-416A-987E-FD60296A5191}.Debug|x64.ActiveCfg = Debug|x64
+		{6A3DC459-725A-416A-987E-FD60296A5191}.Debug|x64.Build.0 = Debug|x64
+		{6A3DC459-725A-416A-987E-FD60296A5191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3DC459-725A-416A-987E-FD60296A5191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3DC459-725A-416A-987E-FD60296A5191}.Release|x64.ActiveCfg = Release|x64
+		{6A3DC459-725A-416A-987E-FD60296A5191}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D53E4EA-3C76-498F-A89E-B958DF26E494}
+	EndGlobalSection
+EndGlobal
